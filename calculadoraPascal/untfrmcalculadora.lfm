@@ -1,0 +1,245 @@
+object frmCalculadora: TfrmCalculadora
+  Left = 854
+  Height = 443
+  Top = 429
+  Width = 1034
+  Caption = 'calculadora Alcides'
+  ClientHeight = 443
+  ClientWidth = 1034
+  Color = clBlack
+  LCLVersion = '2.2.6.0'
+  object edtResultado: TEdit
+    Left = 64
+    Height = 23
+    Top = 16
+    Width = 323
+    OnChange = edtResultadoChange
+    TabOrder = 0
+  end
+  object btn7: TBitBtn
+    Left = 64
+    Height = 30
+    Top = 96
+    Width = 75
+    Caption = '7'
+    OnClick = btn7Click
+    TabOrder = 1
+  end
+  object btn8: TBitBtn
+    Left = 144
+    Height = 30
+    Top = 96
+    Width = 75
+    Caption = '8'
+    OnClick = btn8Click
+    TabOrder = 2
+  end
+  object btn9: TBitBtn
+    Left = 224
+    Height = 30
+    Top = 96
+    Width = 75
+    Caption = '9'
+    OnClick = btn9Click
+    TabOrder = 3
+  end
+  object vezes: TBitBtn
+    Left = 304
+    Height = 30
+    Top = 96
+    Width = 75
+    Caption = 'X'
+    OnClick = vezesClick
+    TabOrder = 4
+  end
+  object btn4: TBitBtn
+    Left = 64
+    Height = 30
+    Top = 136
+    Width = 75
+    Caption = '4'
+    OnClick = btn4Click
+    TabOrder = 5
+  end
+  object btn5: TBitBtn
+    Left = 144
+    Height = 30
+    Top = 136
+    Width = 75
+    Caption = '5'
+    OnClick = btn5Click
+    TabOrder = 6
+  end
+  object btn6: TBitBtn
+    Left = 224
+    Height = 30
+    Top = 136
+    Width = 75
+    Caption = '6'
+    OnClick = btn6Click
+    TabOrder = 7
+  end
+  object subtrai: TBitBtn
+    Left = 304
+    Height = 30
+    Top = 136
+    Width = 75
+    Caption = '-'
+    OnClick = subtraiClick
+    TabOrder = 8
+  end
+  object btn1: TBitBtn
+    Left = 64
+    Height = 30
+    Top = 176
+    Width = 75
+    Caption = '1'
+    OnClick = btn1Click
+    TabOrder = 9
+  end
+  object btn2: TBitBtn
+    Left = 144
+    Height = 30
+    Top = 176
+    Width = 75
+    Caption = '2'
+    OnClick = btn2Click
+    TabOrder = 10
+  end
+  object btn3: TBitBtn
+    Left = 224
+    Height = 30
+    Top = 176
+    Width = 75
+    Caption = '3'
+    OnClick = btn3Click
+    TabOrder = 11
+  end
+  object soma: TBitBtn
+    Left = 304
+    Height = 30
+    Top = 176
+    Width = 75
+    Caption = '+'
+    OnClick = somaClick
+    TabOrder = 12
+  end
+  object virgula: TBitBtn
+    Left = 144
+    Height = 30
+    Top = 216
+    Width = 75
+    Caption = ','
+    OnClick = virgulaClick
+    TabOrder = 13
+  end
+  object btn0: TBitBtn
+    Left = 64
+    Height = 30
+    Top = 216
+    Width = 75
+    Caption = '0'
+    OnClick = btn0Click
+    TabOrder = 14
+  end
+  object divide: TBitBtn
+    Left = 224
+    Height = 30
+    Top = 216
+    Width = 75
+    Caption = '/'
+    OnClick = divideClick
+    TabOrder = 15
+  end
+  object igual: TBitBtn
+    Left = 304
+    Height = 30
+    Top = 296
+    Width = 75
+    Caption = '='
+    OnClick = igualClick
+    OnEnter = igualClick
+    TabOrder = 16
+  end
+  object limpa: TBitBtn
+    Left = 304
+    Height = 30
+    Top = 56
+    Width = 75
+    Caption = 'AC'
+    OnClick = limpaClick
+    TabOrder = 17
+  end
+  object btnSen: TBitBtn
+    Left = 64
+    Height = 30
+    Top = 256
+    Width = 75
+    Caption = 'sen'
+    OnClick = btnSenClick
+    TabOrder = 18
+  end
+  object btnCos: TBitBtn
+    Left = 144
+    Height = 30
+    Top = 256
+    Width = 75
+    Caption = 'cos'
+    OnClick = btnCosClick
+    TabOrder = 19
+  end
+  object btnTan: TBitBtn
+    Left = 224
+    Height = 30
+    Top = 256
+    Width = 75
+    Caption = 'tan'
+    OnClick = btnTanClick
+    TabOrder = 20
+  end
+  object bitPi: TBitBtn
+    Left = 304
+    Height = 30
+    Top = 216
+    Width = 75
+    Caption = 'PI'
+    OnClick = bitPiClick
+    TabOrder = 21
+  end
+  object btnAbs: TBitBtn
+    Left = 64
+    Height = 30
+    Top = 296
+    Width = 75
+    Caption = 'ABS'
+    OnClick = btnAbsClick
+    TabOrder = 22
+  end
+  object btnPar: TBitBtn
+    Left = 144
+    Height = 30
+    Top = 296
+    Width = 75
+    Caption = '('
+    OnClick = btnParClick
+    TabOrder = 23
+  end
+  object btnPare: TBitBtn
+    Left = 224
+    Height = 30
+    Top = 296
+    Width = 75
+    Caption = ')'
+    OnClick = btnPareClick
+    TabOrder = 24
+  end
+  object btnMedia: TBitBtn
+    Left = 304
+    Height = 30
+    Top = 256
+    Width = 75
+    Caption = 'MEDIA'
+    OnClick = btnMediaClick
+    TabOrder = 25
+  end
+end

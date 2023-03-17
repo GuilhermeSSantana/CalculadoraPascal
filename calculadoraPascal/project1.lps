@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="project1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="6"/>
+        <CursorPos X="53" Y="17"/>
+        <UsageCount Value="28"/>
+      </Unit>
+      <Unit>
+        <Filename Value="untfrmcalculadora.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmCalculadora"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="untfrmCalculadora"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="164"/>
+        <CursorPos X="47" Y="198"/>
+        <UsageCount Value="28"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\Downloads\ExpressionParser.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ExpressionParser.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="77"/>
+        <CursorPos X="168" Y="106"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="untfrmcalculadora.pas"/>
+        <Caret Line="165" Column="7" TopLine="147"/>
+      </Position>
+      <Position>
+        <Filename Value="untfrmcalculadora.pas"/>
+        <Caret Line="144" Column="3" TopLine="139"/>
+      </Position>
+      <Position>
+        <Filename Value="untfrmcalculadora.pas"/>
+        <Caret Line="149" Column="67" TopLine="124"/>
+      </Position>
+      <Position>
+        <Filename Value="untfrmcalculadora.pas"/>
+        <Caret Line="144" Column="25" TopLine="126"/>
+      </Position>
+      <Position>
+        <Filename Value="untfrmcalculadora.pas"/>
+        <Caret Line="146" Column="25" TopLine="128"/>
+      </Position>
+      <Position>
+        <Filename Value="untfrmcalculadora.pas"/>
+        <Caret Line="82" Column="25" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="untfrmcalculadora.pas"/>
+        <Caret Line="100" Column="43" TopLine="83"/>
+      </Position>
+      <Position>
+        <Filename Value="untfrmcalculadora.pas"/>
+        <Caret Line="131" Column="17" TopLine="116"/>
+      </Position>
+      <Position>
+        <Filename Value="untfrmcalculadora.pas"/>
+        <Caret Line="57" Column="7" TopLine="57"/>
+      </Position>
+      <Position>
+        <Filename Value="untfrmcalculadora.pas"/>
+        <Caret Line="58" Column="7" TopLine="58"/>
+      </Position>
+      <Position>
+        <Filename Value="untfrmcalculadora.pas"/>
+        <Caret Line="59" Column="7" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="untfrmcalculadora.pas"/>
+        <Caret Line="61" Column="7" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="untfrmcalculadora.pas"/>
+        <Caret Line="166" Column="32" TopLine="162"/>
+      </Position>
+      <Position>
+        <Filename Value="untfrmcalculadora.pas"/>
+        <Caret Line="177" Column="28" TopLine="163"/>
+      </Position>
+      <Position>
+        <Filename Value="untfrmcalculadora.pas"/>
+        <Caret Line="173" Column="28" TopLine="164"/>
+      </Position>
+      <Position>
+        <Filename Value="untfrmcalculadora.pas"/>
+        <Caret Line="120" Column="62" TopLine="104"/>
+      </Position>
+      <Position>
+        <Filename Value="untfrmcalculadora.pas"/>
+        <Caret Line="126" Column="15" TopLine="101"/>
+      </Position>
+      <Position>
+        <Filename Value="untfrmcalculadora.pas"/>
+        <Caret Line="190" Column="28" TopLine="188"/>
+      </Position>
+      <Position>
+        <Filename Value="untfrmcalculadora.pas"/>
+        <Caret Line="191" Column="28" TopLine="189"/>
+      </Position>
+      <Position>
+        <Filename Value="untfrmcalculadora.pas"/>
+        <Caret Line="198" Column="28" TopLine="196"/>
+      </Position>
+      <Position>
+        <Filename Value="untfrmcalculadora.pas"/>
+        <Caret Line="189" Column="28" TopLine="187"/>
+      </Position>
+      <Position>
+        <Filename Value="untfrmcalculadora.pas"/>
+        <Caret Line="194" Column="28" TopLine="187"/>
+      </Position>
+      <Position>
+        <Filename Value="untfrmcalculadora.pas"/>
+        <Caret Line="210" Column="3" TopLine="193"/>
+      </Position>
+      <Position>
+        <Filename Value="untfrmcalculadora.pas"/>
+        <Caret Line="165" Column="3" TopLine="139"/>
+      </Position>
+      <Position>
+        <Filename Value="untfrmcalculadora.pas"/>
+        <Caret Line="167" Column="3" TopLine="141"/>
+      </Position>
+      <Position>
+        <Filename Value="ExpressionParser.pas"/>
+        <Caret Line="102" Column="17" TopLine="83"/>
+      </Position>
+      <Position>
+        <Filename Value="untfrmcalculadora.pas"/>
+        <Caret Line="197" Column="28" TopLine="195"/>
+      </Position>
+      <Position>
+        <Filename Value="untfrmcalculadora.pas"/>
+        <Caret Line="171" Column="106" TopLine="141"/>
+      </Position>
+      <Position>
+        <Filename Value="untfrmcalculadora.pas"/>
+        <Caret Line="199" Column="47"/>
+      </Position>
+      <Position>
+        <Filename Value="untfrmcalculadora.pas"/>
+        <Caret Line="198" Column="47" TopLine="164"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
